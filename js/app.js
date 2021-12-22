@@ -11,3 +11,7 @@ else {
 
 document.write(message);
 
+
+console.log ("hello these are words")
+
+
